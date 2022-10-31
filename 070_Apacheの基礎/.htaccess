@@ -1,0 +1,4 @@
+DirectoryIndex file1.html
+Options -Indexes
+
+Redirect /redirect-test /apache

@@ -1,0 +1,10 @@
+$cBlack: black !default;
+$success: purple;
+
+@import "../../bootstrap/bootstrap.scss";
+
+
+body {
+  background-color: $cBlack;
+}
+
